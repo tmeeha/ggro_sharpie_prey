@@ -1,0 +1,561 @@
+prey_name,family,diet,habitat,urban,mig_strat,log10_mass,age_mature,feeder_bird
+Abert's Towhee,Emberizidae,Invertebrates,Shrubland,Yes,Resident,1.68,2,Occassionally
+Acorn Woodpecker,Picidae,Seed,Woodland,Yes,Resident,1.9,1.5,Occassionally
+Allen's Hummingbird,Trochilidae,Nectar,Shrubland,Yes,Moderate,0.53,2,Yes
+Altamira Oriole,Icteridae,Invertebrates,Woodland,No,Resident,1.74,1,Occassionally
+American Avocet,Charadriidae,Invertebrates,Wetland,No,Short,2.48,1,No
+American Bittern,Ardeidae,Vertebrates,Wetland,No,Short,2.85,1,No
+American Black Duck,Anatidae,Vegetation,Wetland,No,Short,3.09,1,No
+American Coot,Rallidae,Vegetation,Wetland,No,Short,2.75,1,No
+American Crow,Corvidae,Omnivore,Various,Yes,Withdrawal,2.65,2,Yes
+American Dipper,Cinclidae,Invertebrates,Wetland,Yes,Resident,1.75,1,No
+American Goldfinch,Fringillidae,Seed,Various,Yes,Short,1.19,0.9,Yes
+American Kestrel,Falconidae,Invertebrates,Various,No,Short,2.06,1,No
+American Oystercatcher,Charadriidae,Invertebrates,Ocean,No,Withdrawal,2.74,3.5,No
+American Pipit,Motacillidae,Omnivore,Grassland,No,Moderate,1.35,1,No
+American Redstart,Parulidae,Invertebrates,Woodland,No,Moderate,0.92,1,No
+American Robin,Turdidae,Fruit,Woodland,Yes,Short,1.9,1,Occassionally
+American Three-toed Woodpecker,Picidae,Invertebrates,Woodland,No,Resident,1.82,1,No
+American Tree Sparrow,Emberizidae,Omnivore,Shrubland,No,Moderate,1.26,1,Yes
+American White Pelican,Pelecanidae,Vertebrates,Wetland,No,Moderate,3.75,3,No
+American Wigeon,Anatidae,Vegetation,Wetland,No,Short,2.88,1,No
+American Woodcock,Scolopacidae,Invertebrates,Wetland,No,Short,2.29,0.9,No
+Ancient Murrelet,Alcidae,Invertebrates,Ocean,No,Short,2.34,3.5,No
+Anhinga,Anhingidae,Vertebrates,Wetland,No,Withdrawal,3.13,2,No
+Anna's Hummingbird,Trochilidae,Nectar,Woodland,Yes,Short,0.63,1,Yes
+Aplomado Falcon,Falconidae,Vertebrates,Grassland,No,Resident,2.53,1,No
+Arctic Loon,Gaviidae,Vertebrates,Wetland,No,Moderate,3.35,1.5,No
+Arizona Woodpecker,Picidae,Invertebrates,Woodland,No,Resident,1.67,1,No
+Ash-throated Flycatcher,Tyrannidae,Invertebrates,Shrubland,No,Withdrawal,1.47,1,No
+Atlantic Puffin,Alcidae,Vertebrates,Ocean,No,Short,2.77,4.5,No
+Audubon's Oriole,Icteridae,Omnivore,Woodland,No,Resident,1.62,1,Occassionally
+Bachman's Sparrow,Emberizidae,Omnivore,Woodland,No,Withdrawal,1.29,1,No
+Baird's Sparrow,Emberizidae,Seed,Grassland,No,Moderate,1.26,1,No
+Bald Eagle,Accipitridae,Vertebrates,Wetland,No,Short,3.67,4.5,No
+Baltimore Oriole,Icteridae,Omnivore,Woodland,Yes,Moderate,1.54,1,Occassionally
+Band-tailed Pigeon,Columbidae,Seed,Woodland,Yes,Withdrawal,2.55,1,Yes
+Bank Swallow,Hirundinidae,Invertebrates,Various,Yes,Moderate,1.25,1,No
+Barn Owl,Tytonidae,Vertebrates,Various,Yes,Withdrawal,2.61,1,No
+Barn Swallow,Hirundinidae,Invertebrates,Various,Yes,Moderate,1.25,1,No
+Barred Owl,Strigidae,Vertebrates,Woodland,Yes,Resident,2.85,2,No
+Barrow's Goldeneye,Anatidae,Invertebrates,Wetland,No,Moderate,2.96,3,No
+Bell's Sparrow,Emberizidae,Seed,Shrubland,No,Short,1.23,1,No
+Bell's Vireo,Vireonidae,Invertebrates,Shrubland,No,Moderate,0.93,1,No
+Warbling Vireo,Vireonidae,Invertebrates,Shrubland,No,Moderate,0.93,1,No
+Belted Kingfisher,Alcedinidae,Vertebrates,Wetland,No,Short,2.23,0.8,No
+Bendire's Thrasher,Mimidae,Invertebrates,Shrubland,No,Withdrawal,1.79,0.8,Occassionally
+Bewick's Wren,Troglodytidae,Invertebrates,Shrubland,Yes,Short,1,1,Yes
+Black Brant,Anatidae,Vegetation,Wetland,No,Moderate,3.11,2.5,No
+Black Guillemot,Alcidae,Vertebrates,Ocean,No,Withdrawal,2.58,3.5,No
+Black Oystercatcher,Charadriidae,Invertebrates,Ocean,No,Resident,2.74,4.5,No
+Black Phoebe,Tyrannidae,Invertebrates,Wetland,Yes,Withdrawal,1.27,1,No
+Black Rail,Rallidae,Invertebrates,Wetland,No,Short,1.5,1,No
+Black Scoter,Anatidae,Invertebrates,Wetland,No,Moderate,3.02,2,No
+Black Skimmer,Rynchopidae,Vertebrates,Ocean,No,Withdrawal,2.47,1.5,No
+Black Turnstone,Scolopacidae,Invertebrates,Wetland,No,Moderate,2.1,1,No
+Black Vulture,Cathartidae,Vertebrates,Various,Yes,Resident,3.28,7.5,No
+"Black, Brown-capped, and Gray-crowned Rosy-Finch §§",Fringillidae,Omnivore,Various,No,Short,1.4,1,Yes
+Black-and-white Warbler,Parulidae,Invertebrates,Woodland,No,Moderate,1.04,1,Occassionally
+Black-backed Woodpecker,Picidae,Invertebrates,Woodland,No,Resident,1.86,1,No
+Black-bellied Plover,Charadriidae,Invertebrates,Wetland,No,Moderate,2.4,1.5,No
+Black-bellied Whistling-Duck,Anatidae,Vegetation,Wetland,No,Withdrawal,2.88,1,No
+Black-billed Magpie,Corvidae,Omnivore,Woodland,Yes,Resident,2.34,2,Yes
+Black-capped Chickadee,Paridae,Invertebrates,Woodland,Yes,Resident,1.03,0.5,Yes
+Black-chinned Hummingbird,Trochilidae,Nectar,Woodland,Yes,Short,0.48,1,Yes
+Black-chinned Sparrow,Emberizidae,Omnivore,Shrubland,No,Short,1.1,1,No
+Black-crested and Tufted Titmouse ?? ,Paridae,Invertebrates,Woodland,No,Resident,1.33,1,Yes
+Black-crowned Night-Heron,Ardeidae,Vertebrates,Wetland,Yes,Short,2.91,1,No
+Black-footed Albatross,Diomedeidae,Vertebrates,Ocean,No,Long,3.45,9,No
+Black-headed Grosbeak,Cardinalidae,Omnivore,Woodland,No,Short,1.62,1,Occassionally
+Black-headed Gull,Laridae,Invertebrates,Wetland,No,Moderate,2.45,1.5,No
+Black-legged Kittiwake,Laridae,Invertebrates,Ocean,No,Moderate,2.62,4,No
+Black-necked Stilt,Charadriidae,Invertebrates,Wetland,No,Short,2.22,1,No
+Black-throated Blue Warbler,Parulidae,Invertebrates,Woodland,No,Long,1.01,1,No
+Black-throated Gray Warbler,Parulidae,Invertebrates,Various,No,Moderate,0.9,1,No
+Black-throated Green Warbler,Parulidae,Invertebrates,Woodland,No,Moderate,0.94,1,No
+Black-throated Sparrow,Emberizidae,Omnivore,Shrubland,No,Withdrawal,1.11,1,Occassionally
+Blue Grosbeak,Cardinalidae,Omnivore,Shrubland,No,Short,1.47,2,No
+Blue Jay,Corvidae,Omnivore,Woodland,Yes,Withdrawal,1.94,1,Yes
+Blue-gray Gnatcatcher,Polioptilidae,Invertebrates,Woodland,No,Short,0.78,1,No
+Cassin's Vireo,Vireonidae,Invertebrates,Woodland,No,Moderate,1.19,1,No
+Blue-throated Hummingbird,Trochilidae,Nectar,Woodland,No,Short,0.88,1,Yes
+Blue-winged Teal,Anatidae,Vegetation,Wetland,No,Moderate,2.56,0.6,No
+Great-tailed Grackle,Icteridae,Omnivore,Wetland,Yes,Resident,2.18,1.3,Yes
+Bohemian Waxwing,Bombycillidae,Fruit,Woodland,Yes,Irruptive,1.74,1,Occassionally
+Bonaparte's Gull,Laridae,Omnivore,Wetland,No,Moderate,2.32,2,No
+Boreal Chickadee,Paridae,Omnivore,Woodland,No,Resident,0.98,1,Yes
+Boreal Owl,Strigidae,Vertebrates,Woodland,No,Irruptive,2.14,1,No
+Brandt's Cormorant,Phalacrocoracidae,Vertebrates,Ocean,No,Withdrawal,3.35,3,No
+Brewer's Blackbird,Icteridae,Invertebrates,Various,Yes,Short,1.8,1,Yes
+Brewer's Sparrow,Emberizidae,Omnivore,Shrubland,No,Moderate,1.02,1,No
+Bridled Titmouse,Paridae,Invertebrates,Woodland,No,Resident,1,1,Occassionally
+Broad-billed Hummingbird,Trochilidae,Nectar,Woodland,Yes,Withdrawal,0.48,1,Yes
+Broad-tailed Hummingbird,Trochilidae,Nectar,Woodland,Yes,Moderate,0.55,1,Yes
+Broad-winged Hawk,Accipitridae,Vertebrates,Woodland,No,Long,2.66,1.5,No
+Bronzed Cowbird,Icteridae,Omnivore,Various,Yes,Withdrawal,1.8,2,No
+Brown Booby,Sulidae,Vertebrates,Ocean,No,Resident,3.11,3,No
+Brown Creeper,Certhiidae,Invertebrates,Woodland,No,Short,0.9,1,Yes
+Brown Jay,Corvidae,Omnivore,Woodland,No,Resident,2.31,5,Occassionally
+Brown Pelican,Pelecanidae,Vertebrates,Ocean,Yes,Withdrawal,3.54,1.5,No
+Brown Thrasher,Mimidae,Omnivore,Shrubland,No,Short,1.84,0.8,Occassionally
+Brown-crested Flycatcher,Tyrannidae,Invertebrates,Woodland,No,Withdrawal,1.65,1,No
+Brown-headed Cowbird,Icteridae,Omnivore,Various,Yes,Short,1.61,1,Yes
+Brown-headed Nuthatch,Sittidae,Seed,Woodland,No,Resident,1.01,1,Yes
+Budgerigar,Psittacidae,Seed,Various,Yes,Resident,1.48,0.5,Occassionally
+Buff-bellied Hummingbird,Trochilidae,Nectar,Woodland,Yes,Resident,0.6,1,Yes
+Bufflehead,Anatidae,Invertebrates,Wetland,No,Short,2.6,2,No
+Bullock's Oriole,Icteridae,Omnivore,Woodland,Yes,Moderate,1.56,2,Occassionally
+Burrowing Owl,Strigidae,Vertebrates,Grassland,Yes,Short,2.18,1,No
+Bushtit,Aegithalidae,Invertebrates,Various,Yes,Resident,0.7,1,Yes
+Cackling and Canada Goose †,Anatidae,Vegetation,Wetland,Yes,Short,3.45,1,Occassionally
+Cactus Wren,Troglodytidae,Invertebrates,Shrubland,Yes,Resident,1.59,0.7,Yes
+California Towhee,Emberizidae,Seed,Shrubland,Yes,Resident,1.69,1,Occassionally
+California Condor,Cathartidae,Vertebrates,Various,No,Resident,3.93,6,No
+California Gnatcatcher,Polioptilidae,Invertebrates,Shrubland,No,Resident,0.72,1,No
+California Gull,Laridae,Omnivore,Wetland,Yes,Short,2.84,4,No
+California Quail,Odontophoridae,Omnivore,Shrubland,Yes,Resident,2.27,0.8,Occassionally
+California Thrasher,Mimidae,Invertebrates,Shrubland,Yes,Resident,1.93,0.6,Occassionally
+Calliope Hummingbird,Trochilidae,Nectar,Woodland,No,Moderate,0.48,1,Yes
+Canvasback,Anatidae,Vegetation,Wetland,No,Short,3.08,1,No
+Canyon Wren,Troglodytidae,Invertebrates,Various,No,Short,1.08,2,No
+Cape May Warbler,Parulidae,Invertebrates,Woodland,No,Long,1,1,No
+Carolina Chickadee,Paridae,Invertebrates,Woodland,Yes,Resident,1,1,Yes
+Carolina Wren,Troglodytidae,Invertebrates,Woodland,Yes,Resident,1.28,1,Yes
+Caspian Tern,Sternidae,Vertebrates,Wetland,No,Moderate,2.81,2.5,No
+Cassin's Auklet,Alcidae,Invertebrates,Ocean,No,Short,2.27,3,No
+Cassin's Finch,Fringillidae,Seed,Woodland,No,Short,1.42,1,Yes
+Cassin's Kingbird,Tyrannidae,Invertebrates,Woodland,No,Moderate,1.63,2,No
+Cassin's Sparrow,Emberizidae,Omnivore,Grassland,No,Short,1.26,1,No
+Cattle Egret,Ardeidae,Invertebrates,Wetland,Yes,Short,2.58,2.5,No
+Cliff Swallow,Hirundinidae,Invertebrates,Various,Yes,Short,1.28,1,No
+Cave Swallow,Hirundinidae,Invertebrates,Various,Yes,Short,1.28,1,No
+Cedar Waxwing,Bombycillidae,Fruit,Woodland,Yes,Irruptive,1.5,1,Occassionally
+Chestnut-backed Chickadee,Paridae,Omnivore,Woodland,Yes,Resident,1,1,Yes
+Chestnut-collared Longspur,Emberizidae,Omnivore,Grassland,No,Moderate,1.3,1,No
+Chestnut-sided Warbler,Parulidae,Invertebrates,Shrubland,No,Long,0.97,1,No
+Chihuahuan Raven,Corvidae,Omnivore,Shrubland,No,Withdrawal,2.73,1,No
+Chipping Sparrow,Emberizidae,Seed,Woodland,Yes,Short,1.09,1,Occassionally
+Chuck-will's-widow,Caprimulgidae,Invertebrates,Woodland,No,Short,2.04,1,No
+Chukar,Phasianidae,Seed,Various,No,Resident,2.7,1,Occassionally
+Cinnamon Teal,Anatidae,Vegetation,Wetland,No,Short,2.58,1,No
+Clapper Rail,Rallidae,Omnivore,Wetland,No,Resident,2.41,1,No
+Clark's and Western Grebe §§§,Podicipedidae,Vertebrates,Wetland,No,Short,3.06,1,No
+Clark's Nutcracker,Corvidae,Seed,Woodland,No,Resident,2.11,2,Occassionally
+Clay-colored Sparrow,Emberizidae,Seed,Shrubland,No,Moderate,1.05,1,Occassionally
+Clay-colored Thrush,Turdidae,Invertebrates,Woodland,Yes,Resident,1.9,1,No
+Common Eider,Anatidae,Invertebrates,Ocean,No,Short,3.31,2.5,No
+Common Goldeneye,Anatidae,Invertebrates,Wetland,No,Short,2.96,2,No
+Common Grackle,Icteridae,Omnivore,Various,Yes,Short,2.02,1,Yes
+Common Ground-Dove,Columbidae,Seed,Shrubland,No,Resident,1.55,0.2,Occassionally
+Common Loon,Gaviidae,Vertebrates,Wetland,No,Moderate,3.7,2.5,No
+Common Merganser,Anatidae,Vertebrates,Wetland,No,Short,3.16,2,No
+Common Moorhen,Rallidae,Omnivore,Wetland,No,Withdrawal,2.53,1,No
+Common Murre,Alcidae,Vertebrates,Ocean,No,Short,3,5,No
+Common Myna,Sturnidae,Omnivore,Various,Yes,Resident,2.07,1,No
+Common Pauraque,Caprimulgidae,Invertebrates,Shrubland,No,Resident,1.76,1,No
+Common Poorwill,Caprimulgidae,Invertebrates,Shrubland,No,Short,1.68,1,No
+Common Raven,Corvidae,Omnivore,Various,Yes,Resident,2.97,1,Occassionally
+Common Redpoll,Fringillidae,Seed,Shrubland,No,Irruptive,1.15,1,Yes
+Common Tern,Sternidae,Vertebrates,Wetland,No,Moderate,2.11,3,No
+Common Yellowthroat,Parulidae,Invertebrates,Shrubland,No,Short,0.98,1,No
+Cooper's Hawk,Accipitridae,Vertebrates,Woodland,Yes,Short,2.63,2,Occassionally
+Costa's Hummingbird,Trochilidae,Nectar,Shrubland,No,Short,0.48,1,Yes
+Couch's and Tropical Kingbird †††,Tyrannidae,Invertebrates,Woodland,Yes,Withdrawal,1.58,1,No
+Crested Caracara,Falconidae,Vertebrates,Shrubland,No,Resident,3.07,3,No
+Crested Myna,Sturnidae,Omnivore,Various,Yes,Resident,2.04,1,No
+Crissal Thrasher,Mimidae,Invertebrates,Shrubland,No,Resident,1.8,0.8,Occassionally
+Curve-billed Thrasher,Mimidae,Invertebrates,Shrubland,Yes,Resident,1.91,1,Occassionally
+Dark-eyed Junco,Emberizidae,Seed,Woodland,Yes,Short,1.29,1,Yes
+Dickcissel,Cardinalidae,Seed,Grassland,No,Moderate,1.42,1,Occassionally
+Double-crested Cormorant,Phalacrocoracidae,Vertebrates,Wetland,Yes,Short,3.26,2,No
+Dovekie,Alcidae,Invertebrates,Ocean,No,Withdrawal,2.26,5.5,No
+Downy Woodpecker,Picidae,Omnivore,Woodland,Yes,Resident,1.4,1,Yes
+Dunlin,Scolopacidae,Invertebrates,Wetland,No,Moderate,1.72,1.5,No
+Dusky Flycatcher,Tyrannidae,Invertebrates,Woodland,No,Moderate,1.04,1,No
+Dusky Grouse,Tetraodonidae,Vegetation,Woodland,No,Resident,3.02,1,No
+Dusky-capped Flycatcher,Tyrannidae,Invertebrates,Woodland,No,Withdrawal,1.31,1,No
+Eared Grebe,Podicipedidae,Invertebrates,Wetland,No,Short,2.62,1.5,No
+Eastern and Mexican Whip-poor-will ‡,Caprimulgidae,Invertebrates,Woodland,No,Moderate,1.72,1,No
+Spotted Towhee,Emberizidae,Omnivore,Shrubland,No,Short,1.61,2,Occassionally
+Eastern and Western Screech-Owl ¶¶¶,Strigidae,Vertebrates,Woodland,Yes,Resident,2.24,1,No
+Eastern Bluebird,Turdidae,Invertebrates,Woodland,No,Short,1.44,1,Yes
+Eastern Meadowlark,Icteridae,Invertebrates,Grassland,No,Withdrawal,1.96,1,Occassionally
+Eastern Phoebe,Tyrannidae,Invertebrates,Woodland,Yes,Short,1.29,1,No
+Eastern Wood-Pewee,Tyrannidae,Invertebrates,Woodland,No,Long,1.15,1,No
+Western Wood-Pewee,Tyrannidae,Invertebrates,Woodland,No,Long,1.15,1,No
+Elegant Tern,Laridae,Vertebrates,Ocean,No,Long,2.41,3,No
+Elegant Trogon,Trogonidae,Omnivore,Woodland,No,Short,1.85,2,No
+Emperor Goose,Anatidae,Omnivore,Wetland,No,Moderate,3.33,3.5,No
+Eurasian Collared-Dove,Columbidae,Seed,Various,Yes,Resident,2.17,1,Yes
+Eurasian Tree Sparrow,Passeridae,Seed,Various,Yes,Resident,1.33,1,Occassionally
+Eurasian Wigeon,Anatidae,Vegetation,Wetland,No,Long,2.89,1,No
+European Starling,Sturnidae,Omnivore,Various,Yes,Withdrawal,1.89,1,Yes
+Evening Grosbeak,Fringillidae,Omnivore,Woodland,No,Irruptive,1.79,1,Yes
+Ferruginous Hawk,Accipitridae,Vertebrates,Grassland,No,Short,3.17,1.5,No
+Ferruginous Pygmy-Owl,Strigidae,Invertebrates,Woodland,No,Resident,1.85,1,No
+Field Sparrow,Emberizidae,Seed,Shrubland,No,Short,1.1,1,Occassionally
+Fish Crow,Corvidae,Omnivore,Wetland,Yes,Withdrawal,2.45,2,No
+Five-striped Sparrow,Emberizidae,Invertebrates,Shrubland,No,Resident,1.28,1,No
+Florida Scrub-Jay,Corvidae,Omnivore,Shrubland,Yes,Resident,1.89,2.5,Occassionally
+Forster's Tern,Sternidae,Vertebrates,Wetland,No,Moderate,2.17,2,No
+Fox Sparrow,Emberizidae,Omnivore,Shrubland,No,Short,1.54,1,Yes
+Franklin's Gull,Laridae,Invertebrates,Wetland,No,Long,2.45,2,No
+Fulvous Whistling-Duck,Anatidae,Vegetation,Wetland,No,Withdrawal,2.88,1,No
+Gadwall,Anatidae,Vegetation,Wetland,No,Short,2.96,1.5,No
+Gambel's Quail,Odontophoridae,Seed,Shrubland,Yes,Resident,2.23,1,Occassionally
+Gila Woodpecker,Picidae,Omnivore,Woodland,Yes,Resident,1.81,1,Occassionally
+Gilded Flicker,Picidae,Invertebrates,Woodland,No,Resident,2.16,1,Occassionally
+Glaucous Gull,Laridae,Omnivore,Wetland,No,Moderate,3.18,3.5,No
+Glaucous-winged Gull,Laridae,Omnivore,Ocean,Yes,Short,3.02,5.5,No
+Glossy Ibis,Threskiornithidae,Invertebrates,Wetland,No,Withdrawal,2.8,2.5,No
+Golden Eagle,Accipitridae,Vertebrates,Various,No,Short,3.63,5.5,No
+Golden-crowned Kinglet,Regulidae,Invertebrates,Woodland,No,Short,0.78,1,Occassionally
+Golden-crowned Sparrow,Emberizidae,Omnivore,Shrubland,No,Moderate,1.5,1,Yes
+Golden-fronted Woodpecker,Picidae,Omnivore,Woodland,Yes,Resident,1.91,1,Occassionally
+Grasshopper Sparrow,Emberizidae,Invertebrates,Various,No,Short,1.25,1,No
+Gray Catbird,Mimidae,Omnivore,Shrubland,Yes,Short,1.55,1,Occassionally
+Gray Flycatcher,Tyrannidae,Invertebrates,Various,No,Moderate,1.08,2,No
+Gray Hawk,Accipitridae,Vertebrates,Woodland,No,Withdrawal,2.63,2,No
+Gray Jay,Corvidae,Omnivore,Woodland,No,Resident,1.85,1,Yes
+Gray Partridge,Phasianidae,Seed,Grassland,No,Resident,2.61,1,Occassionally
+Great Black-backed Gull,Laridae,Omnivore,Wetland,Yes,Short,3.22,4.5,No
+Great Blue Heron,Ardeidae,Vertebrates,Wetland,No,Short,3.4,1.5,No
+Great Cormorant,Phalacrocoracidae,Vertebrates,Ocean,No,Short,3.4,3,No
+Great Crested Flycatcher,Tyrannidae,Invertebrates,Woodland,Yes,Moderate,1.53,1,No
+Great Egret,Ardeidae,Vertebrates,Wetland,No,Short,2.98,2,No
+Great Gray Owl,Strigidae,Vertebrates,Woodland,No,Resident,3.03,3.5,No
+Great Horned Owl,Strigidae,Vertebrates,Woodland,Yes,Resident,3.18,2,No
+Great Kiskadee,Tyrannidae,Invertebrates,Woodland,Yes,Resident,1.8,2,No
+Greater Pewee,Tyrannidae,Invertebrates,Woodland,No,Short,1.43,1.5,No
+Greater Prairie-Chicken,Tetraodonidae,Seed,Grassland,No,Resident,2.94,0.8,No
+Greater Roadrunner,Cuculidae,Vertebrates,Shrubland,Yes,Resident,2.57,2.5,Occassionally
+Greater Sage-Grouse,Tetraodonidae,Vegetation,Shrubland,No,Resident,3.28,1,No
+Greater Scaup,Anatidae,Invertebrates,Wetland,No,Moderate,3,1,No
+Greater White-fronted Goose,Anatidae,Vegetation,Wetland,No,Moderate,3.4,3,No
+Greater Yellowlegs,Scolopacidae,Invertebrates,Wetland,No,Moderate,2.21,1.5,No
+Green Heron,Ardeidae,Vertebrates,Wetland,No,Short,2.38,1,No
+Green Jay,Corvidae,Omnivore,Woodland,Yes,Resident,1.9,1,Yes
+Green Kingfisher,Alcedinidae,Vertebrates,Wetland,No,Resident,1.57,1,No
+Green Parakeet,Psittacidae,Fruit,Various,Yes,Resident,2.37,2,Occassionally
+Green-tailed Towhee,Emberizidae,Omnivore,Shrubland,No,Short,1.46,1,Occassionally
+Green-winged Teal,Anatidae,Vegetation,Wetland,No,Short,2.53,0.4,No
+Groove-billed Ani,Crotophagidae,Invertebrates,Shrubland,No,Withdrawal,1.91,2,No
+Gull-billed Tern,Sternidae,Omnivore,Ocean,No,Moderate,2.23,4.5,No
+Gyrfalcon,Falconidae,Vertebrates,Grassland,No,Irruptive,3.16,2,No
+Hairy Woodpecker,Picidae,Omnivore,Woodland,Yes,Resident,1.78,1,Yes
+Hammond's Flycatcher,Tyrannidae,Invertebrates,Woodland,No,Moderate,1,2,No
+Willow Flycatcher,Tyrannidae,Invertebrates,Woodland,No,Moderate,1,2,No
+Harlequin Duck,Anatidae,Invertebrates,Wetland,No,Moderate,2.75,1,No
+Harris's Hawk,Accipitridae,Vertebrates,Shrubland,Yes,Resident,2.93,1,No
+Harris's Sparrow,Emberizidae,Seed,Shrubland,No,Moderate,1.55,2,Yes
+Heermann's Gull,Laridae,Vertebrates,Ocean,No,Withdrawal,2.7,4,No
+Henslow's Sparrow,Emberizidae,Invertebrates,Grassland,No,Moderate,1.11,1,No
+Hepatic Tanager,Cardinalidae,Omnivore,Woodland,No,Withdrawal,1.57,1,No
+Hermit Thrush,Turdidae,Omnivore,Woodland,No,Short,1.48,1,Occassionally
+Hermit Warbler,Parulidae,Invertebrates,Woodland,No,Moderate,1,1,No
+Herring Gull,Laridae,Omnivore,Wetland,Yes,Short,3.04,4,No
+Hill Myna,Sturnidae,Fruit,Various,Yes,Resident,2.29,1,No
+Hoary Redpoll,Fringillidae,Seed,Shrubland,No,Irruptive,1.18,1,Yes
+Hooded Merganser,Anatidae,Invertebrates,Wetland,No,Short,2.79,2,No
+Hooded Oriole,Icteridae,Invertebrates,Woodland,Yes,Withdrawal,1.39,1,Occassionally
+Hook-billed Kite,Accipitridae,Invertebrates,Woodland,No,Resident,2.49,1,No
+Horned Grebe,Podicipedidae,Vertebrates,Wetland,No,Moderate,2.66,1,No
+Horned Lark,Alaudidae,Seed,Grassland,No,Moderate,1.52,1,Occassionally
+House Finch,Fringillidae,Seed,Various,Yes,Resident,1.33,1,Yes
+House Sparrow,Passeridae,Seed,Various,Yes,Resident,1.42,0.4,Yes
+House Wren,Troglodytidae,Invertebrates,Woodland,Yes,Short,1.04,1,Occassionally
+Hutton's Vireo,Vireonidae,Invertebrates,Woodland,No,Resident,1.04,1,No
+Iceland and Thayer's Gull §,Laridae,Vertebrates,Wetland,No,Moderate,2.97,4,No
+Inca Dove,Columbidae,Seed,Shrubland,Yes,Resident,1.71,1,Yes
+Indigo Bunting,Cardinalidae,Seed,Woodland,No,Moderate,1.17,1,Occassionally
+Oak Titmouse,Paridae,Omnivore,Woodland,No,Resident,1.2,1,Yes
+Killdeer,Charadriidae,Invertebrates,Various,Yes,Short,1.98,1,No
+King Eider,Anatidae,Invertebrates,Wetland,No,Moderate,3.21,2,No
+King Rail,Rallidae,Invertebrates,Wetland,No,Short,2.53,1,No
+Ladder-backed Woodpecker,Picidae,Invertebrates,Woodland,No,Resident,1.48,1,Occassionally
+Lapland Longspur,Emberizidae,Seed,Grassland,No,Moderate,1.45,1,No
+Lark Bunting,Emberizidae,Seed,Grassland,No,Short,1.58,2,No
+Lark Sparrow,Emberizidae,Omnivore,Various,No,Short,1.46,1,Occassionally
+Laughing Gull,Laridae,Invertebrates,Ocean,Yes,Withdrawal,2.49,2.5,No
+Lawrence's Goldfinch,Fringillidae,Seed,Various,No,Irruptive,1.04,2,Occassionally
+Lazuli Bunting,Cardinalidae,Seed,Shrubland,No,Moderate,1.19,1,No
+Le Conte's Sparrow,Emberizidae,Omnivore,Wetland,No,Moderate,1.11,1,No
+Le Conte's Thrasher,Mimidae,Invertebrates,Shrubland,No,Resident,1.79,0.8,Occassionally
+Least Bittern,Ardeidae,Vertebrates,Wetland,No,Short,1.94,1,No
+Least Flycatcher,Tyrannidae,Invertebrates,Woodland,No,Moderate,1,1,No
+Least Grebe,Podicipedidae,Invertebrates,Wetland,No,Resident,2.12,1,No
+Least Sandpiper,Scolopacidae,Invertebrates,Wetland,No,Moderate,1.36,1,No
+Least Tern,Laridae,Vertebrates,Ocean,Yes,Moderate,1.67,1,No
+Lesser Black-backed Gull,Laridae,Vertebrates,Ocean,Yes,Moderate,2.88,4.5,No
+Lesser Goldfinch,Fringillidae,Seed,Various,Yes,Short,0.95,1,Yes
+Lesser Nighthawk,Caprimulgidae,Invertebrates,Shrubland,No,Short,1.69,1,No
+Lesser Prairie-Chicken,Tetraodonidae,Omnivore,Shrubland,No,Resident,2.86,1,No
+Lesser Scaup,Anatidae,Vegetation,Wetland,No,Short,2.91,1,No
+Lesser Yellowlegs,Scolopacidae,Invertebrates,Wetland,No,Moderate,1.89,1.5,No
+Lewis's Woodpecker,Picidae,Omnivore,Woodland,No,Short,2.05,1,No
+Limpkin,Aramidae,Invertebrates,Wetland,No,Resident,3.03,1,No
+Lincoln's Sparrow,Emberizidae,Omnivore,Shrubland,No,Moderate,1.26,1,Occassionally
+Little Blue Heron,Ardeidae,Vertebrates,Wetland,No,Short,2.53,1,No
+Little Gull,Laridae,Invertebrates,Wetland,No,Moderate,2.07,1.5,No
+Loggerhead Shrike,Laniidae,Invertebrates,Shrubland,No,Withdrawal,1.71,1,Occassionally
+Long-billed Curlew,Scolopacidae,Invertebrates,Grassland,No,Moderate,2.77,2.5,No
+Long-billed Dowitcher,Scolopacidae,Invertebrates,Wetland,No,Moderate,2.02,1,No
+Long-billed Thrasher,Mimidae,Invertebrates,Shrubland,No,Resident,1.83,0.8,Occassionally
+Long-eared Owl,Strigidae,Vertebrates,Woodland,No,Short,2.47,1,No
+Long-tailed Duck,Anatidae,Invertebrates,Wetland,No,Moderate,2.94,2,No
+Louisiana Waterthrush,Parulidae,Invertebrates,Woodland,No,Moderate,1.3,1,No
+MacGillivray's Warbler,Parulidae,Invertebrates,Shrubland,No,Moderate,1,1,No
+Magnificent Frigatebird,Fregatidae,Vertebrates,Ocean,No,Withdrawal,3.17,5,No
+Magnificent Hummingbird,Trochilidae,Nectar,Woodland,No,Short,0.9,1,Yes
+Magnolia Warbler,Parulidae,Invertebrates,Woodland,No,Long,0.91,1,No
+Mallard,Anatidae,Omnivore,Wetland,Yes,Short,2.93,1,Occassionally
+Marbled Godwit,Scolopacidae,Invertebrates,Wetland,No,Moderate,2.55,2.5,No
+Marbled Murrelet,Alcidae,Invertebrates,Ocean,No,Withdrawal,2.34,1.5,No
+Marsh Wren,Troglodytidae,Invertebrates,Wetland,No,Short,1.03,1,No
+McCown's Longspur,Calcaridae,Seed,Grassland,No,Moderate,1.41,1,No
+McKay's Bunting,Emberizidae,Omnivore,Grassland,No,Moderate,1.63,1,No
+Merlin,Falconidae,Vertebrates,Woodland,Yes,Short,2.28,1.5,Occassionally
+Mew Gull,Laridae,Invertebrates,Ocean,No,Short,2.62,2.5,No
+Mexican Chickadee,Paridae,Invertebrates,Woodland,No,Resident,1.02,1,Occassionally
+Mexican Jay,Corvidae,Omnivore,Woodland,No,Resident,2.12,3,Occassionally
+Monk Parakeet,Psittacidae,Seed,Various,Yes,Resident,2.08,2.5,Occassionally
+Montezuma Quail,Odontophoridae,Omnivore,Woodland,No,Resident,2.27,1,Occassionally
+Mottled Duck,Anatidae,Omnivore,Wetland,No,Withdrawal,2.99,1,No
+Mountain Bluebird,Turdidae,Invertebrates,Shrubland,No,Short,1.47,1,Occassionally
+Mountain Chickadee,Paridae,Invertebrates,Woodland,Yes,Resident,1.05,1,Yes
+Mountain Plover,Charadriidae,Invertebrates,Grassland,No,Moderate,1.98,1,No
+Mountain Quail,Odontophoridae,Seed,Shrubland,No,Resident,2.36,1,Occassionally
+Mourning Dove,Columbidae,Seed,Various,Yes,Withdrawal,2.08,0.3,Yes
+Mute Swan,Anatidae,Vegetation,Wetland,Yes,Resident,4.03,2.5,No
+Nashville Warbler,Parulidae,Invertebrates,Woodland,No,Moderate,0.91,1,No
+Nelson's and Saltmarsh Sparrow ‡‡,Emberizidae,Omnivore,Wetland,No,Short,1.23,1,No
+Neotropic Cormorant,Phalacrocoracidae,Vertebrates,Wetland,No,Withdrawal,3.15,1,No
+Northern Beardless-Tyrannulet,Tyrannidae,Invertebrates,Woodland,No,Withdrawal,0.85,2,No
+Northern Bobwhite,Odontophoridae,Seed,Shrubland,No,Resident,2.24,1,Occassionally
+Northern Cardinal,Cardinalidae,Seed,Shrubland,Yes,Resident,1.63,1,Yes
+Northern Flicker,Picidae,Invertebrates,Woodland,Yes,Short,2.16,1,Yes
+Northern Fulmar,Procellariidae,Vertebrates,Ocean,No,Short,2.79,12.5,No
+Northern Gannet,Sulidae,Vertebrates,Ocean,No,Short,3.48,3,No
+Northern Goshawk,Accipitridae,Vertebrates,Woodland,No,Withdrawal,2.94,2,Occassionally
+Northern Harrier,Accipitridae,Vertebrates,Various,No,Short,2.59,2.5,No
+Northern Hawk Owl,Strigidae,Vertebrates,Woodland,No,Irruptive,2.51,1,No
+Northern Mockingbird,Mimidae,Omnivore,Shrubland,Yes,Withdrawal,1.69,1,Occassionally
+Northern Parula,Parulidae,Invertebrates,Woodland,No,Moderate,0.9,1,No
+Northern Pintail,Anatidae,Omnivore,Wetland,No,Short,2.98,1,No
+Northern Pygmy-Owl,Strigidae,Invertebrates,Woodland,No,Resident,1.79,1,No
+Northern Rough-winged Swallow,Hirundinidae,Invertebrates,Various,Yes,Moderate,1.16,1,No
+Purple Martin,Hirundinidae,Invertebrates,Various,Yes,Long,1.16,1,No
+Northern Saw-whet Owl,Strigidae,Vertebrates,Woodland,No,Short,2,1,No
+Northern Shoveler,Anatidae,Invertebrates,Wetland,No,Short,2.79,0.6,No
+Northern Shrike,Laniidae,Vertebrates,Shrubland,No,Short,1.8,1,Occassionally
+Northern Waterthrush,Parulidae,Invertebrates,Woodland,No,Moderate,1.24,1,No
+Northwestern Crow,Corvidae,Omnivore,Wetland,Yes,Resident,2.59,2,No
+Nuttall's Woodpecker,Picidae,Invertebrates,Woodland,No,Resident,1.58,1,Occassionally
+Olive Sparrow,Emberizidae,Omnivore,Shrubland,No,Resident,1.34,1,Occassionally
+Olive-sided Flycatcher,Tyrannidae,Invertebrates,Woodland,No,Long,1.15,1,No
+Olive Warbler,Peucedramidae,Invertebrates,Woodland,No,Withdrawal,1.04,1,No
+Orange-crowned Warbler,Parulidae,Invertebrates,Various,No,Moderate,0.96,2,Occassionally
+Orchard Oriole,Icteridae,Omnivore,Woodland,No,Moderate,1.28,1,Occassionally
+Osprey,Pandionidae,Vertebrates,Wetland,Yes,Short,3.22,3,No
+Ovenbird,Parulidae,Invertebrates,Woodland,No,Moderate,1.27,1,No
+Pacific Golden-Plover,Charadriidae,Invertebrates,Grassland,No,Long,2.18,1,No
+Pacific-slope Flycatcher,Tyrannidae,Invertebrates,Woodland,No,Moderate,1.04,1,No
+Painted Bunting,Cardinalidae,Seed,Shrubland,No,Moderate,1.19,1,Occassionally
+Painted Redstart,Parulidae,Invertebrates,Woodland,No,Withdrawal,1,1,No
+Palm Warbler,Parulidae,Invertebrates,Various,No,Short,1.01,1,No
+Parasitic Jaeger,Stercorariidae,Vertebrates,Ocean,No,Moderate,2.65,4.5,No
+Pectoral Sandpiper,Scolopacidae,Invertebrates,Wetland,No,Long,1.9,1,No
+Pelagic Cormorant,Phalacrocoracidae,Vertebrates,Ocean,No,Short,3.27,2.5,No
+Peregrine Falcon,Falconidae,Vertebrates,Various,Yes,Short,2.88,2,No
+Phainopepla,Ptilogonatidae,Fruit,Woodland,No,Withdrawal,1.34,0.8,No
+Pied-billed Grebe,Podicipedidae,Invertebrates,Wetland,No,Short,2.62,1.5,No
+Pigeon Guillemot,Alcidae,Vertebrates,Ocean,No,Withdrawal,2.72,3.5,No
+Pileated Woodpecker,Picidae,Invertebrates,Woodland,Yes,Resident,2.47,1,Yes
+Pine Grosbeak,Fringillidae,Seed,Woodland,No,Irruptive,1.75,1,Yes
+Pine Siskin,Fringillidae,Seed,Woodland,Yes,Irruptive,1.1,1,Yes
+Pine Warbler,Parulidae,Invertebrates,Woodland,No,Short,1.07,1,Occassionally
+Pinyon Jay,Corvidae,Omnivore,Woodland,No,Resident,2.02,2,Yes
+Piping Plover,Charadriidae,Invertebrates,Ocean,No,Moderate,1.72,1,No
+Plain Chachalaca,Cracidae,Seed,Woodland,Yes,Resident,2.69,1,No
+Pomarine Jaeger,Stercorariidae,Vertebrates,Ocean,No,Moderate,2.84,1,No
+Prairie Falcon,Falconidae,Vertebrates,Grassland,No,Short,2.85,1.5,No
+Prairie Warbler,Parulidae,Invertebrates,Shrubland,No,Short,0.88,1,No
+Prothonotary Warbler,Parulidae,Invertebrates,Wetland,No,Moderate,1.16,1,No
+Purple Finch,Fringillidae,Seed,Woodland,Yes,Short,1.37,1,Yes
+Purple Gallinule,Rallidae,Omnivore,Wetland,No,Short,2.32,1,No
+Purple Sandpiper,Scolopacidae,Invertebrates,Wetland,No,Long,1.81,2.5,No
+Pygmy Nuthatch,Sittidae,Seed,Woodland,Yes,Resident,1.03,1,Yes
+Pyrrhuloxia,Cardinalidae,Omnivore,Shrubland,No,Resident,1.55,1,Yes
+Razorbill,Alcidae,Vertebrates,Ocean,No,Short,2.86,4.5,No
+Red Crossbill,Fringillidae,Seed,Woodland,No,Resident,1.58,1,Occassionally
+Red Knot,Scolopacidae,Invertebrates,Wetland,No,Long,2.15,2.5,No
+Red-bellied Woodpecker,Picidae,Omnivore,Woodland,Yes,Resident,1.84,1,Yes
+Red-billed Pigeon,Columbidae,Fruit,Woodland,No,Resident,2.4,1,No
+Red-breasted Merganser,Anatidae,Vertebrates,Wetland,No,Moderate,3.01,2.5,No
+Red-breasted Nuthatch,Sittidae,Seed,Woodland,Yes,Withdrawal,0.99,1,Yes
+Red-breasted Sapsucker,Picidae,Omnivore,Woodland,No,Short,1.76,1,Occassionally
+Red-cockaded Woodpecker,Picidae,Invertebrates,Woodland,No,Resident,1.67,1,No
+Red-crowned Parrot,Psittacidae,Fruit,Various,Yes,Resident,2.5,4,Occassionally
+Reddish Egret,Ardeidae,Vertebrates,Wetland,No,Withdrawal,2.79,4,No
+Red-faced Cormorant,Phalacrocoracidae,Vertebrates,Ocean,No,Resident,3.33,3,No
+Redhead,Anatidae,Vegetation,Wetland,No,Short,3.03,1,No
+Red-headed Woodpecker,Picidae,Omnivore,Woodland,Yes,Withdrawal,1.86,1,Occassionally
+Red-naped Sapsucker,Picidae,Omnivore,Woodland,No,Short,1.7,1,Occassionally
+Red-necked Grebe,Podicipedidae,Invertebrates,Wetland,No,Moderate,3.01,1,No
+Red-necked Phalarope,Scolopacidae,Invertebrates,Wetland,No,Long,1.56,1,No
+Red-shouldered Hawk,Accipitridae,Invertebrates,Woodland,No,Short,2.78,1,No
+Red-tailed Hawk,Accipitridae,Vertebrates,Woodland,Yes,Short,3.04,3,No
+Red-throated Loon,Gaviidae,Vertebrates,Wetland,No,Moderate,3.17,2.5,No
+Red-winged Blackbird,Icteridae,Omnivore,Various,Yes,Short,1.71,2,Yes
+Rhinoceros Auklet,Alcidae,Vertebrates,Ocean,No,Withdrawal,2.68,2.5,No
+Ring-billed Gull,Laridae,Vertebrates,Wetland,Yes,Short,2.71,2,No
+Ringed Kingfisher,Alcedinidae,Vertebrates,Wetland,No,Resident,2.51,1,No
+Ring-necked Duck,Anatidae,Vegetation,Wetland,No,Short,2.85,1,No
+Ring-necked Pheasant,Phasianidae,Vegetation,Grassland,No,Resident,3.05,1,Occassionally
+Rock Ptarmigan,Tetraodonidae,Vegetation,Grassland,No,Withdrawal,2.73,1,No
+Rock Sandpiper,Scolopacidae,Invertebrates,Wetland,No,Moderate,1.97,1,No
+Rock Wren,Troglodytidae,Invertebrates,Various,No,Short,1.21,1,No
+Roseate Spoonbill,Threskiornithidae,Vertebrates,Wetland,No,Withdrawal,3.17,2.5,No
+Rose-breasted Grosbeak,Cardinalidae,Fruit,Woodland,No,Moderate,1.62,1,Occassionally
+Rose-ringed Parakeet,Psittacidae,Fruit,Various,Yes,Resident,2.11,3,No
+Ross's Goose,Anatidae,Vegetation,Wetland,No,Moderate,3.16,2.5,No
+Rough-legged Hawk,Accipitridae,Vertebrates,Grassland,No,Moderate,2.98,2.5,No
+Royal Tern,Sternidae,Vertebrates,Ocean,No,Short,2.65,3.5,No
+Ruby-crowned Kinglet,Regulidae,Invertebrates,Woodland,No,Short,0.81,2,Occassionally
+Ruby-throated Hummingbird,Trochilidae,Nectar,Woodland,Yes,Moderate,0.49,1,Yes
+Ruddy Duck,Anatidae,Invertebrates,Wetland,No,Short,2.78,1,No
+Ruddy Ground-dove,Columbidae,Seed,Various,Yes,Resident,1.66,0.3,No
+Ruddy Turnstone,Scolopacidae,Invertebrates,Wetland,No,Moderate,2.13,2,No
+Ruffed Grouse,Tetraodonidae,Vegetation,Woodland,No,Resident,2.73,0.3,Occassionally
+Rufous Hummingbird,Trochilidae,Nectar,Woodland,No,Moderate,0.65,1,Yes
+Rufous-crowned Sparrow,Emberizidae,Omnivore,Shrubland,No,Resident,1.28,1,Occassionally
+Rufous-winged Sparrow,Emberizidae,Omnivore,Shrubland,No,Resident,1.18,1,No
+Rusty Blackbird,Icteridae,Omnivore,Wetland,No,Moderate,1.78,1,No
+Sage Thrasher,Mimidae,Invertebrates,Shrubland,No,Short,1.65,2,Occassionally
+Sanderling,Scolopacidae,Invertebrates,Wetland,No,Long,1.71,2,No
+Sandhill Crane,Gruidae,Omnivore,Wetland,No,Moderate,3.63,4.5,No
+Sandwich Tern,Sternidae,Omnivore,Ocean,No,Short,2.3,3.5,No
+Savannah Sparrow,Emberizidae,Omnivore,Grassland,No,Short,1.33,1,Occassionally
+Say's Phoebe,Tyrannidae,Invertebrates,Various,Yes,Short,1.32,1,No
+Scaled Quail,Odontophoridae,Seed,Shrubland,Yes,Resident,2.27,1,Occassionally
+Scissor-tailed Flycatcher,Tyrannidae,Invertebrates,Shrubland,No,Moderate,1.61,1,No
+Scott's Oriole,Icteridae,Invertebrates,Shrubland,No,Short,1.56,1,Occassionally
+Seaside Sparrow,Emberizidae,Invertebrates,Wetland,No,Withdrawal,1.35,1,No
+Sedge Wren,Troglodytidae,Invertebrates,Wetland,No,Moderate,0.96,1,No
+Semipalmated Plover,Charadriidae,Invertebrates,Wetland,No,Long,1.67,2.5,No
+Semipalmated Sandpiper,Scolopacidae,Invertebrates,Wetland,No,Long,1.44,1,No
+Sharp-shinned Hawk,Accipitridae,Vertebrates,Woodland,Yes,Short,2.12,2,Occassionally
+Sharp-tailed Grouse,Tetraodonidae,Vegetation,Shrubland,No,Resident,2.95,0.6,No
+Shiny Cowbird,Icteridae,Omnivore,Various,Yes,Short,1.6,1,No
+Short-billed Dowitcher,Scolopacidae,Invertebrates,Wetland,No,Moderate,2.04,1,No
+Short-eared Owl,Strigidae,Vertebrates,Grassland,No,Short,2.51,1,No
+Short-tailed Hawk,Accipitridae,Vertebrates,Woodland,No,Withdrawal,2.71,1.5,No
+Short-tailed Shearwater,Procellariidae,Vertebrates,Ocean,No,Long,2.75,6,No
+Skylark,Alaudidae,Seed,Grassland,No,Resident,1.57,1,No
+Smith's Longspur,Emberizidae,Omnivore,Grassland,No,Moderate,1.45,1,No
+Smooth-billed Ani,Crotophagidae,Invertebrates,Shrubland,Yes,Resident,2.04,2,No
+Snail Kite,Accipitridae,Invertebrates,Wetland,No,Resident,2.57,1,No
+Snow Bunting,Emberizidae,Seed,Grassland,No,Moderate,1.63,1,Occassionally
+Snow Goose,Anatidae,Vegetation,Wetland,No,Moderate,3.42,2,No
+Snowy Egret,Ardeidae,Invertebrates,Wetland,No,Short,2.57,1.5,No
+Snowy Owl,Strigidae,Vertebrates,Grassland,No,Irruptive,3.36,2,No
+Snowy Plover,Charadriidae,Invertebrates,Ocean,No,Short,1.63,0.9,No
+Solitary Sandpiper,Scolopacidae,Invertebrates,Wetland,No,Long,1.69,2,No
+Song Sparrow,Emberizidae,Omnivore,Various,Yes,Short,1.38,1,Yes
+Sooty Shearwater,Procellariidae,Vertebrates,Ocean,No,Long,2.9,6,No
+Sora,Rallidae,Omnivore,Wetland,No,Short,1.87,1,No
+Spot-breasted Oriole,Icteridae,Omnivore,Various,Yes,Resident,1.69,1,Occassionally
+Spotted Dove,Columbidae,Seed,Various,Yes,Resident,2.22,1,Yes
+Spotted Owl,Strigidae,Vertebrates,Woodland,No,Resident,2.77,3,No
+Spotted Sandpiper,Scolopacidae,Invertebrates,Wetland,No,Moderate,1.62,1,No
+Sprague's Pipit,Motacillidae,Omnivore,Grassland,No,Moderate,1.38,1,No
+Spruce Grouse,Tetraodonidae,Omnivore,Woodland,No,Resident,3.05,0.9,No
+Steller's Eider,Anatidae,Invertebrates,Wetland,No,Moderate,2.91,2.5,No
+Steller's Jay,Corvidae,Omnivore,Woodland,Yes,Resident,2.11,1,Yes
+Stilt Sandpiper,Scolopacidae,Omnivore,Wetland,No,Long,1.8,1.5,No
+Summer Tanager,Cardinalidae,Omnivore,Woodland,No,Moderate,1.45,1,No
+Surf Scoter,Anatidae,Invertebrates,Wetland,No,Moderate,3,2.5,No
+Surfbird,Scolopacidae,Invertebrates,Wetland,No,Moderate,2.3,1,No
+Swainson's Hawk,Accipitridae,Vertebrates,Various,No,Long,2.98,1.5,No
+Swamp Sparrow,Emberizidae,Omnivore,Wetland,No,Short,1.24,1,Occassionally
+Tennessee Warbler,Parulidae,Invertebrates,Woodland,No,Long,0.95,1,No
+Thick-billed Kingbird,Tyrannidae,Invertebrates,Woodland,No,Withdrawal,1.74,1,No
+Thick-billed Murre,Alcidae,Vertebrates,Ocean,No,Short,2.98,4.5,No
+Townsend's Solitaire,Turdidae,Omnivore,Woodland,No,Short,1.51,1,Occassionally
+Townsend's Warbler,Parulidae,Invertebrates,Woodland,No,Moderate,0.95,2,Occassionally
+Tree Swallow,Hirundinidae,Invertebrates,Various,No,Moderate,1.29,1,No
+Tricolored Blackbird,Icteridae,Invertebrates,Wetland,No,Short,1.76,1,No
+Tricolored Heron,Ardeidae,Vertebrates,Wetland,No,Short,2.5,1.5,No
+Tropical Parula,Parulidae,Invertebrates,Woodland,No,Withdrawal,0.85,1,No
+Trumpeter Swan,Anatidae,Vegetation,Wetland,No,Short,4.04,5.5,No
+Tufted Duck,Anatidae,Vegetation,Wetland,Yes,Long,2.85,1,No
+Tundra Swan,Anatidae,Vegetation,Wetland,No,Moderate,3.81,3,No
+Turkey Vulture,Cathartidae,Vertebrates,Various,Yes,Withdrawal,3.18,10.5,No
+Varied Thrush,Turdidae,Omnivore,Woodland,No,Short,1.89,1,Yes
+Vaux's Swift,Apodidae,Invertebrates,Woodland,No,Moderate,1.28,1,No
+Black Swift,Apodidae,Invertebrates,Woodland,No,Moderate,1.28,1,No
+Verdin,Paridae,Invertebrates,Shrubland,Yes,Resident,0.83,1,Occassionally
+Vermilion Flycatcher,Tyrannidae,Invertebrates,Shrubland,No,Short,1.16,2,No
+Vesper Sparrow,Emberizidae,Seed,Grassland,No,Moderate,1.41,2,No
+Violet-crowned Hummingbird,Trochilidae,Nectar,Woodland,No,Short,0.7,1,Yes
+Violet-green Swallow,Hirundinidae,Invertebrates,Woodland,No,Moderate,1.15,1,No
+Virginia Rail,Rallidae,Invertebrates,Wetland,No,Short,1.9,1,No
+Wandering Tattler,Scolopacidae,Invertebrates,Wetland,No,Long,2.07,2.5,No
+Western Bluebird,Turdidae,Invertebrates,Woodland,No,Short,1.42,1,Occassionally
+Western Gull,Laridae,Omnivore,Ocean,Yes,Withdrawal,2.97,4.5,No
+Western Kingbird,Tyrannidae,Invertebrates,Woodland,Yes,Moderate,1.62,1,No
+Western Meadowlark,Icteridae,Invertebrates,Grassland,No,Short,2,1,Occassionally
+Western Sandpiper,Scolopacidae,Invertebrates,Wetland,No,Long,1.44,1.5,No
+California Scrub-Jay,Corvidae,Omnivore,Shrubland,Yes,Resident,1.94,1,Yes
+Western Tanager,Cardinalidae,Omnivore,Woodland,No,Moderate,1.48,1,No
+Whimbrel,Scolopacidae,Invertebrates,Wetland,No,Moderate,2.56,1.5,No
+Whiskered Screech-Owl,Strigidae,Vertebrates,Woodland,No,Resident,1.96,1,No
+White Ibis,Threskiornithidae,Invertebrates,Wetland,Yes,Withdrawal,2.95,1.5,No
+White-breasted Nuthatch,Sittidae,Seed,Woodland,Yes,Resident,1.32,1,Yes
+White-collared Seedeater,Thraupidae,Seed,Shrubland,No,Resident,0.94,1,No
+White-crowned Pigeon,Columbidae,Seed,Woodland,No,Resident,2.38,1,No
+White-crowned Sparrow,Emberizidae,Seed,Various,Yes,Moderate,1.45,1,Yes
+White-eyed Vireo,Vireonidae,Invertebrates,Shrubland,No,Short,1.06,1,No
+White-faced Ibis,Threskiornithidae,Invertebrates,Wetland,No,Short,2.79,2,No
+White-headed Woodpecker,Picidae,Omnivore,Woodland,No,Resident,1.79,1,No
+White-rumped Sandpiper,Scolopacidae,Invertebrates,Wetland,No,Long,1.63,1,No
+White-tailed Hawk,Accipitridae,Vertebrates,Grassland,No,Resident,3.01,2,No
+White-tailed Kite,Accipitridae,Vertebrates,Various,No,Withdrawal,2.54,1,No
+White-tailed Ptarmigan,Tetraodonidae,Vegetation,Grassland,No,Resident,2.55,1,No
+White-throated Sparrow,Emberizidae,Seed,Woodland,No,Short,1.39,1,Yes
+White-throated Swift,Apodidae,Invertebrates,Various,No,Short,1.49,1,No
+White-tipped Dove,Columbidae,Seed,Woodland,No,Resident,2.17,1,Occassionally
+White-winged Crossbill,Fringillidae,Seed,Woodland,No,Withdrawal,1.46,0.4,Occassionally
+White-winged Dove,Columbidae,Seed,Various,Yes,Withdrawal,2.19,1,Yes
+White-winged Parakeet,Psittacidae,Fruit,Woodland,Yes,Resident,1.86,2.5,Occassionally
+White-winged Scoter,Anatidae,Invertebrates,Wetland,No,Moderate,3.26,2.5,No
+Whooping Crane,Gruidae,Invertebrates,Wetland,No,Moderate,3.77,4.5,No
+Wild Turkey,Meleagrididae,Omnivore,Woodland,Yes,Resident,3.76,0.8,Occassionally
+Willet,Scolopacidae,Invertebrates,Wetland,No,Moderate,2.39,2,No
+Williamson's Sapsucker,Picidae,Omnivore,Woodland,No,Short,1.68,2,No
+Willow Ptarmigan,Tetraodonidae,Vegetation,Shrubland,No,Withdrawal,2.75,1,No
+Wilson's Phalarope,Scolopacidae,Invertebrates,Wetland,No,Moderate,1.78,1,No
+Wilson's Plover,Charadriidae,Invertebrates,Ocean,No,Short,1.74,1,No
+Wilson's Snipe,Scolopacidae,Invertebrates,Wetland,No,Short,2.05,1,No
+Wilson's Warbler,Parulidae,Invertebrates,Shrubland,No,Moderate,0.88,1,No
+Pacific Wren,Troglodytidae,Invertebrates,Woodland,No,Short,0.99,2,Occassionally
+Wood Duck,Anatidae,Seed,Wetland,No,Short,2.82,1,No
+Wood Stork,Ciconiidae,Vertebrates,Wetland,No,Withdrawal,3.41,3.5,No
+Swainson's Thrush,Turdidae,Invertebrates,Woodland,Yes,Moderate,1.65,1,No
+Wood Thrush,Turdidae,Invertebrates,Woodland,Yes,Moderate,1.65,1,No
+Worm-eating Warbler,Parulidae,Invertebrates,Woodland,No,Moderate,1.15,1,No
+Wrentit,Timaliidae,Omnivore,Shrubland,No,Resident,1.16,1,No
+Yellow Rail,Rallidae,Invertebrates,Wetland,No,Moderate,1.75,1,No
+Yellow Warbler,Parulidae,Invertebrates,Shrubland,No,Moderate,1.01,1,No
+Yellow-bellied Sapsucker,Picidae,Omnivore,Woodland,Yes,Short,1.69,1,Occassionally
+Yellow-billed Loon,Gaviidae,Vertebrates,Wetland,No,Moderate,3.69,3,No
+Yellow-billed Magpie,Corvidae,Omnivore,Woodland,No,Resident,2.19,2,Occassionally
+Yellow-breasted Chat,Parulidae,Omnivore,Shrubland,No,Moderate,1.41,1,No
+Yellow-crowned Night-Heron,Ardeidae,Invertebrates,Wetland,No,Withdrawal,2.83,2,No
+Yellow-eyed Junco,Emberizidae,Omnivore,Woodland,No,Resident,1.3,1,No
+Yellow-footed Gull,Laridae,Vertebrates,Wetland,No,Short,3.12,4.5,No
+Yellow-headed Blackbird,Icteridae,Omnivore,Wetland,No,Short,1.87,1,No
+Yellow-rumped Warbler,Parulidae,Invertebrates,Woodland,No,Short,1.08,1,Occassionally
+Yellow-throated Vireo,Vireonidae,Invertebrates,Woodland,No,Moderate,1.24,1,No
+Yellow-throated Warbler,Parulidae,Invertebrates,Woodland,No,Short,0.99,1,Occassionally
+Zone-tailed Hawk,Accipitridae,Vertebrates,Woodland,No,Short,2.88,2,No
