@@ -56,7 +56,7 @@ theme_timeseries <- function (base_size = 11, base_family = "") {
 setwd("~/GitHub/ggro_sharpie_prey/")
 
 # ebird key
-set_ebirdst_access_key("4kur40litsen")
+# set_ebirdst_access_key("6tsm3ctdenmv", overwrite=T)
 
 focal_weeks <- 31:48
 
